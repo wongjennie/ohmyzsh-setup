@@ -5,16 +5,13 @@
 2. Download oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh
 3. Go to oh-my-zsh/custom/theme and download Powerlevel9k: https://github.com/Powerlevel9k/powerlevel9k
 4. For font, use hack font from Nerd-font: https://github.com/ryanoasis/nerd-fonts
-
-  a. add ```POWERLEVEL9K_MODE='nerdfont-complete'``` to .zshrc file
-  b. in iTerm2 preference, change font to use hack font
+   * add ```POWERLEVEL9K_MODE='nerdfont-complete'``` to .zshrc file
+   * in iTerm2 preference, change font to use hack font
 5. Install Material Design Color for iTerm2: https://github.com/MartinSeeler/iterm2-material-design
-
-  a. in iTerm2 preference, change color to use material design
+   * in iTerm2 preference, change color to use material design
 6. Install the following plugins for zsh:
-
-  a. zsh-syntax-highting: https://github.com/zsh-users/zsh-syntax-highlighting
-  b. zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
+   * zsh-syntax-highting: https://github.com/zsh-users/zsh-syntax-highlighting
+   * zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
   
 ### ZSHRC File
 ```
